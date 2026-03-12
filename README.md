@@ -1,7 +1,5 @@
 Hi there 👋
 
-
-
 My name is Luis Eduardo Monico Morales
 Im learning to create new programs
 I wanna study mecatronic in UPAEP
